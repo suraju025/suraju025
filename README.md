@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋 I'm Suraj Upadhyay
 
-<!--
-**suraju025/suraju025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with strong interest and hands-on skills in  
+**Data Engineering, Data Analytics, and Backend Development**.
 
-Here are some ideas to get you started:
+I enjoy building scalable data pipelines, clean APIs, and analytics-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technical Skills
+
+### Programming
+- Python, JavaScript, SQL
+
+### Data Engineering & Analytics
+- Pandas, NumPy
+- PySpark (basics)
+- ETL Pipelines
+- Data Cleaning & Transformation
+- SQL Analytics
+- Data Modeling
+
+### Backend & Software Engineering
+- Node.js, Express
+- REST APIs
+- Authentication (JWT)
+- Modular backend design
+
+### Databases
+- PostgreSQL, MySQL, MongoDB
+
+### Tools & Platforms
+- Git & GitHub
+- Docker (basic)
+- Linux
+- AWS (EC2, S3 – fundamentals)
+
+---
+
+## 📌 Featured Projects (Work in Progress)
+
+🚧 Currently building professional projects in:
+- Data Engineering
+- Data Analytics
+- Backend Systems
+
+
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: surajupadhyay885@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/suraj-upadhyay-863146193  
+- 🌐 Portfolio: https://suraju025.github.io/Suraj_Portifolio_github.io/
