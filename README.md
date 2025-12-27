@@ -10,7 +10,13 @@ Strong foundation in **Python, SQL, system design fundamentals, and data process
 ## 🔧 Technical Skills
 
 ### Programming Languages
-- Python, JavaScript, SQL
+Languages: Python, SQL, JavaScript, Shell Script
+Data Engineering: PySpark, Spark SQL, Hive, ETL/ELT Pipelines, Data Modeling, Data Warehousing
+Cloud & Platforms: AWS (S3, Glue, Lambda), Azure, GCP, Databricks, Docker, Git
+Orchestration & Tools: Apache Airflow, Kafka (basic), dbt (beginner), CI/CD
+Analytics & BI: Pandas, NumPy, Tableau, Power BI, REST APIs
+Databases: MySQL, PostgreSQL, MongoDB, NoSQL
+Core CS: Data Structures, Algorithms, DBMS, OOP
 
 ### Data Engineering & Analytics
 - Pandas, NumPy  
