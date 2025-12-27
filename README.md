@@ -1,50 +1,72 @@
 # Hi 👋 I'm Suraj Upadhyay
 
-Software Engineer with strong interest and hands-on skills in  
-**Data Engineering, Data Analytics, and Backend Development**.
+Software Engineer with hands-on experience in **Data Engineering, Data Analytics, and Backend Development**.  
+Passionate about building scalable data pipelines, reliable backend systems, and analytics-driven solutions that solve real-world problems.
 
-I enjoy building scalable data pipelines, clean APIs, and analytics-driven solutions.
+Strong foundation in **Python, SQL, system design fundamentals, and data processing workflows**, with a focus on clean, maintainable, and production-ready code.
 
 ---
 
 ## 🔧 Technical Skills
 
-### Programming
+### Programming Languages
 - Python, JavaScript, SQL
 
 ### Data Engineering & Analytics
-- Pandas, NumPy
-- PySpark (basics)
-- ETL Pipelines
-- Data Cleaning & Transformation
-- SQL Analytics
-- Data Modeling
+- Pandas, NumPy  
+- PySpark (foundational)
+- ETL Pipeline Development  
+- Data Cleaning & Transformation  
+- SQL Analytics & Reporting  
+- Data Modeling (OLTP / OLAP concepts)
 
 ### Backend & Software Engineering
-- Node.js, Express
-- REST APIs
-- Authentication (JWT)
-- Modular backend design
+- Node.js, Express  
+- RESTful API Development  
+- Authentication & Authorization (JWT)  
+- Modular & Scalable Backend Architecture  
 
 ### Databases
-- PostgreSQL, MySQL, MongoDB
+- PostgreSQL, MySQL, MongoDB  
 
-### Tools & Platforms
-- Git & GitHub
-- Docker (basic)
-- Linux
-- AWS (EC2, S3 – fundamentals)
+### DevOps & Cloud
+- Docker (basics)  
+- Linux  
+- AWS (EC2, S3 – fundamentals)  
+- CI/CD concepts  
+
+### Tools
+- Git & GitHub  
+- VS Code  
+- Postman  
 
 ---
 
-## 📌 Featured Projects (Work in Progress)
+## 📌 Featured Projects (In Progress)
 
-🚧 Currently building professional projects in:
-- Data Engineering
-- Data Analytics
-- Backend Systems
+🚀 Actively building and publishing production-style projects in:
 
+- Data Engineering (ETL pipelines, data processing workflows)
+- Data Analytics (SQL + Python analysis projects)
+- Backend / Software Engineering (APIs, services, system design)
 
+Each project will include:
+- Clear problem statement  
+- Architecture diagram  
+- Clean folder structure  
+- README with setup & usage  
+- Real-world datasets  
+- Performance & optimization notes  
+
+---
+
+## 🎯 Career Focus
+- Software Engineer (Backend / Full Stack)
+- Data Engineer
+- Data Analyst  
+- Entry–Mid Level (1–3 years experience)
+
+Open to global opportunities and remote-friendly roles.
 
 ---
 
